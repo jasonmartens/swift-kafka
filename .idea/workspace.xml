@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6783900e-123b-40e2-a778-0427b09a939f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="MacroExpansionManager">
+    <option name="directoryName" value="GAarKuxP" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1UIjlp2AmNm7IS9L2gfEUW900wK" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$/../graphqlparser" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6783900e-123b-40e2-a778-0427b09a939f" name="Default Changelist" comment="" />
+      <created>1575051156730</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575051156730</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="433" y="196" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1575051223881">
+      <screen x="50" y="23" width="1390" height="877" />
+    </state>
+    <state x="433" y="196" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/50.23.1390.877@50.23.1390.877" timestamp="1575051223881" />
+    <state x="246" y="100" key="SettingsEditor" timestamp="1575051276231">
+      <screen x="50" y="23" width="1390" height="877" />
+    </state>
+    <state x="246" y="100" key="SettingsEditor/50.23.1390.877@50.23.1390.877" timestamp="1575051276231" />
+  </component>
+</project>
