@@ -1,3 +1,3 @@
 # swift-kafka
 
-A description of this package.
+An experimental project to read messages from Kafka and dump them into Datadog logs. 
